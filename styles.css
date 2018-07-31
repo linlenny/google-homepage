@@ -59,4 +59,61 @@
 
 .container{
     text-align: center;
+}#nav {
+	position: relative;
+	height: 50 px;
+	width: 100%;
+	top: 10px;
+	color: grey;
 }
+.navlink {
+	color: grey;
+    font-family: arial; sans-serif; 
+    font-style: small; 
+    text-decoration: none;   
+}
+
+.navlink2{
+	color: grey;
+    font-family: arial; sans-serif; 
+    font-style: small; 
+    text-decoration: none;  
+    float: right; 
+}
+
+#footer{
+	position: absolute;
+    bottom: 0px;
+	height: 40px;
+	width: 100%;
+	background-color: #e6e6e6;
+}
+
+.footerlink1{
+	
+	color: #808080;
+    font-family: arial; sans-serif; 
+    text-decoration: none;
+    line-height: 40px;
+	font-size: 13px !important;
+   }
+.footerlink2{
+	
+	color: #808080;
+    font-family: arial; sans-serif; 
+    text-decoration: none;
+    line-height: 40px;
+	font-size: 13px !important;
+	float: right;
+
+
+
+
+
+
+
+
+
+
+
+
